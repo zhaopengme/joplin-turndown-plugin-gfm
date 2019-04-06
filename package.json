@@ -1,16 +1,16 @@
 {
   "name": "joplin-turndown-plugin-gfm",
   "description": "Turndown plugin to add GitHub Flavored Markdown extensions.",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "author": "Dom Christie",
   "main": "lib/turndown-plugin-gfm.cjs.js",
   "module": "lib/turndown-plugin-gfm.es.js",
   "jsnext:main": "lib/turndown-plugin-gfm.es.js",
   "devDependencies": {
-    "browserify": "^14.5.0",
-    "rollup": "^0.50.0",
-    "standard": "^10.0.3",
-    "turndown": "4.0.1",
+    "browserify": "^16.2.3",
+    "rollup": "^1.9.0",
+    "standard": "^12.0.1",
+    "turndown": "5.0.3",
     "turndown-attendant": "0.0.2"
   },
   "files": [
